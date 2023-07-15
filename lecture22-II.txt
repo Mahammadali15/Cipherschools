@@ -1,0 +1,15 @@
+A greedy algorithm is an algorithmic paradigm that follows the problem-solving heuristic of making the locally optimal choice at each stage with the hope of finding a global optimum. In other words, a greedy algorithm chooses the best possible option at each step, without considering the consequences of that choice on future steps.
+
+The greedy algorithm is useful when a problem can be divided into smaller subproblems, and the solution of each subproblem can be combined to solve the overall problem. The greedy algorithm can be used to solve optimization problems that involve finding the best solution among many possible solutions.
+
+Characteristics of Greedy algorithm:
+
+For a problem to be solved using the Greedy approach, it must follow a few major characteristics:
+
+There is an ordered list of resources(profit, cost, value, etc.) 
+Maximum of all the resources(max profit, max value, etc.) are taken. 
+For example, in the fractional knapsack problem, the maximum value/weight is taken first according to available capacity. 
+
+Use of the greedy algorithm:-
+
+The greedy algorithm is a method used in optimization problems where the goal is to make the locally optimal choice at each stage with the hope of finding a global optimum
